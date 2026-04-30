@@ -1,0 +1,124 @@
+\begin{thebibliography}{}
+
+\bibitem[{Ben Taieb} et~al., 2021]{bentaieb2021}
+{Ben Taieb}, S., Taylor, J.~W., and Hyndman, R.~J. (2021).
+\newblock Hierarchical probabilistic forecasting of electricity demand with
+  smart meter data.
+\newblock {\em Journal of the American Statistical Association},
+  116(533):27--43.
+
+\bibitem[Candanedo et~al., 2022]{candanedo2022}
+Candanedo, L.~M., Feldheim, V., and Deramaix, D. (2022).
+\newblock Global vs.\ local models for short-term electricity demand prediction
+  in a residential/lodging scenario.
+\newblock {\em Energies}, 15(6):2037.
+
+\bibitem[Elhabyb et~al., 2024]{elhabyb2024}
+Elhabyb, K., Akherraz, M., Yahyaouy, A., and Riffi, J. (2024).
+\newblock Machine learning algorithms for predicting energy consumption in
+  educational buildings.
+\newblock {\em International Journal of Energy Research}, 2024:Article 6812425.
+
+\bibitem[Friedman, 2001]{friedman2001}
+Friedman, J.~H. (2001).
+\newblock Greedy function approximation: A gradient boosting machine.
+\newblock {\em Annals of Statistics}, 29(5):1189--1232.
+
+\bibitem[Gneiting et~al., 2007]{gneitingbal2007}
+Gneiting, T., Balabdaoui, F., and Raftery, A.~E. (2007).
+\newblock Probabilistic forecasts, calibration and sharpness.
+\newblock {\em Journal of the Royal Statistical Society: Series B},
+  69(2):243--268.
+
+\bibitem[Gneiting and Raftery, 2007]{gneitingraftery2007}
+Gneiting, T. and Raftery, A.~E. (2007).
+\newblock Strictly proper scoring rules, prediction, and estimation.
+\newblock {\em Journal of the American Statistical Association},
+  102(477):359--378.
+
+\bibitem[Haben et~al., 2021]{haben2021}
+Haben, S., Arora, S., Giasemidis, G., Voss, M., and
+  Vukadin{\'{o}}vi{\'{c}}~Greetham, D. (2021).
+\newblock Review of low voltage load forecasting: Methods, applications, and
+  recommendations.
+\newblock {\em Applied Energy}, 304:117798.
+
+\bibitem[Haben et~al., 2019]{haben2019}
+Haben, S., Giasemidis, G., Ziel, F., and Arora, S. (2019).
+\newblock Short term load forecasting and the effect of temperature at the low
+  voltage level.
+\newblock {\em International Journal of Forecasting}, 35(4):1469--1484.
+
+\bibitem[He et~al., 2022]{he2022}
+He, Y., Cao, C., Wang, S., and Fu, H. (2022).
+\newblock Nonparametric probabilistic load forecasting based on quantile
+  combination in electrical power systems.
+\newblock {\em Applied Energy}, 322:119507.
+
+\bibitem[Hong and Fan, 2016]{hongfan2016}
+Hong, T. and Fan, S. (2016).
+\newblock Probabilistic electric load forecasting: A tutorial review.
+\newblock {\em International Journal of Forecasting}, 32(3):914--938.
+
+\bibitem[Hong et~al., 2016]{hong2016gefcom}
+Hong, T., Pinson, P., Fan, S., Zareipour, H., Troccoli, A., and Hyndman, R.~J.
+  (2016).
+\newblock Probabilistic energy forecasting: {Global Energy Forecasting
+  Competition 2014} and beyond.
+\newblock {\em International Journal of Forecasting}, 32(3):896--913.
+
+\bibitem[Hyndman and Athanasopoulos, 2021]{hyndman2021}
+Hyndman, R.~J. and Athanasopoulos, G. (2021).
+\newblock {\em Forecasting: Principles and Practice}.
+\newblock OTexts, 3 edition.
+
+\bibitem[Ke et~al., 2017]{ke2017}
+Ke, G., Meng, Q., Finley, T., Wang, T., Chen, W., Ma, W., Ye, Q., and Liu,
+  T.-Y. (2017).
+\newblock {LightGBM}: A highly efficient gradient boosting decision tree.
+\newblock In {\em Advances in Neural Information Processing Systems},
+  volume~30, pages 3146--3154.
+
+\bibitem[Koenker and Bassett, 1978]{koenker1978}
+Koenker, R. and Bassett, G. (1978).
+\newblock Regression quantiles.
+\newblock {\em Econometrica}, 46(1):33--50.
+
+\bibitem[Makridakis et~al., 2022]{makridakis2022}
+Makridakis, S., Spiliotis, E., Assimakopoulos, V., Chen, Z., Gaba, A., Tsetlin,
+  I., and Winkler, R.~L. (2022).
+\newblock The {M5} uncertainty competition: Results, findings and conclusions.
+\newblock {\em International Journal of Forecasting}, 38(4):1365--1385.
+
+\bibitem[Michael-Ahile et~al., 2024]{michaelahile2024}
+Michael-Ahile, M.~J., Samuels, P., and Ye, N. (2024).
+\newblock Clustering and benchmarking of school electricity consumption using
+  smart meter data.
+\newblock Unpublished manuscript.
+
+\bibitem[Montero-Manso and Hyndman, 2021]{montero2021}
+Montero-Manso, P. and Hyndman, R.~J. (2021).
+\newblock Principles and algorithms for forecasting groups of time series:
+  Locality and globality.
+\newblock {\em International Journal of Forecasting}, 37(4):1632--1653.
+
+\bibitem[Qian et~al., 2024]{qian2024}
+Qian, F., Ruan, Y., Lu, H., He, W., and Li, G. (2024).
+\newblock Enhancing source domain availability through data and feature
+  transfer learning for building power load forecasting.
+\newblock {\em Building Simulation}, 17:625--638.
+
+\bibitem[Samuels et~al., 2020]{samuels2020}
+Samuels, P., Michael-Ahile, M.~J., and Ye, N. (2020).
+\newblock Smart meter data analysis for school energy benchmarking in the
+  {Western Cape}.
+\newblock Unpublished manuscript.
+
+\bibitem[Samuels et~al., 2025]{samuels2025}
+Samuels, P., Michael-Ahile, M.~J., and Ye, N. (2025).
+\newblock Smart meter dataset for {Western Cape} schools with contextual
+  descriptors.
+\newblock Public dataset.
+\newblock Formal citation details pending.
+
+\end{thebibliography}
