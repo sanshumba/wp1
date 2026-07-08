@@ -22,10 +22,7 @@ notebooks/
   wp1_baselines_and_significance.ipynb
 
 paper/
-  wp1_conference_article_adjusted_final.tex
-  wp1_conference_article_adjusted_final.pdf
-  references_revised_final.bib
-  figures/
+
 
 README.md
 requirements.txt
