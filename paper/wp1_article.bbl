@@ -108,17 +108,16 @@ Qian, F., Ruan, Y., Lu, H., He, W., and Li, G. (2024).
   transfer learning for building power load forecasting.
 \newblock {\em Building Simulation}, 17:625--638.
 
+\bibitem[Samuels et~al., 2025]{samuels2025dataset}
+Samuels, J.~A., Michael-Ahile, T., and Booysen, M.~T. (2025).
+\newblock Dataset on electricity usage measurement for lower-to-middle-income
+  primary and secondary schools in western cape, south africa.
+\newblock {\em Data in Brief}, 59:111321.
+
 \bibitem[Samuels et~al., 2020]{samuels2020}
 Samuels, P., Michael-Ahile, M.~J., and Ye, N. (2020).
 \newblock Smart meter data analysis for school energy benchmarking in the
   {Western Cape}.
 \newblock Unpublished manuscript.
-
-\bibitem[Samuels et~al., 2025]{samuels2025}
-Samuels, P., Michael-Ahile, M.~J., and Ye, N. (2025).
-\newblock Smart meter dataset for {Western Cape} schools with contextual
-  descriptors.
-\newblock Public dataset.
-\newblock Formal citation details pending.
 
 \end{thebibliography}
